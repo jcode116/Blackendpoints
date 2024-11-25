@@ -63,7 +63,7 @@ nav {
 }
 
 .nav-link:last-of-type {
-  margin-left: auto; /* Push the last nav-link (Login) to the far right */
+  margin-left: auto;
 }
 
 /* Home and Add Business Links */
