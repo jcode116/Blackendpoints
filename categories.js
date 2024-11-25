@@ -1,1 +1,1 @@
-export const predefinedCategories = ["Food", "Tech", "Clothing", "Entertainment"];
+export const predefinedCategories = ["Food", "Technology", "Clothing", "Entertainment"];

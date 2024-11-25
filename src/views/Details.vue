@@ -6,8 +6,7 @@
       <h2>{{ business.name }}</h2>
       <!-- Image -->
       <img
-        v-if="business.image"
-        :src="business.image"
+        src="https://placehold.co/600x400/png"
         alt="Business Image"
         class="business-image"
       />
@@ -100,7 +99,7 @@ p {
 
 /* Website Link */
 .website-link {
-  color: #fff;
+  color: #000;
   text-decoration: none;
   font-weight: bold;
   text-align: center;
